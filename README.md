@@ -21,7 +21,7 @@ and Facebook comment API for feedbacking the products.
     Starting development server at http://127.0.0.1:8000/ 👈
     ```
 7. Just click on that server link "http://127.0.0.1:8000/" or use CTRL+click if single click doesn't work.
-8. After that the Django Blog Web App will automatically start on your Chrome Browser or Default Browser.
+8. After that the Django Online Store Web App will automatically start on your Chrome Browser or Default Browser.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
